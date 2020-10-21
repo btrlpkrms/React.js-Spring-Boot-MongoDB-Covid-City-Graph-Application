@@ -9,4 +9,6 @@ Technologies:
 - React.js
 - MongoDB
 
-For run this project you should install npm and maven.
+![Alt text](/c19ss.PNG?raw=true "Application Screenshot")
+
+For run this project you should install npm and maven. After that create mongo collection named "cities" with cities.json.
