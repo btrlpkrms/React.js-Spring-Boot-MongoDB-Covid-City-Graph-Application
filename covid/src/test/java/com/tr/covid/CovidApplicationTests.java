@@ -1,4 +1,4 @@
-package com.emre.covid;
+package com.tr.covid;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

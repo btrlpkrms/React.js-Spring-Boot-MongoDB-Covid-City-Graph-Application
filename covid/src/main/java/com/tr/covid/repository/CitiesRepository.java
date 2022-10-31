@@ -1,6 +1,6 @@
-package com.emre.covid.repository;
+package com.tr.covid.repository;
 
-import com.emre.covid.model.Cities;
+import com.tr.covid.model.Cities;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.stereotype.Repository;
 

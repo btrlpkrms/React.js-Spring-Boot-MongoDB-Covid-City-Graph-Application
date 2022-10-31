@@ -1,4 +1,4 @@
-package com.emre.covid.service;
+package com.tr.covid.service;
 
 
 import java.util.LinkedHashMap;

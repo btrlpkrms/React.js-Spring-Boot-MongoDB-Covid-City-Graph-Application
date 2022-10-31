@@ -1,14 +1,14 @@
-package com.emre.covid.service.impl;
+package com.tr.covid.service.impl;
 
-import com.emre.covid.controller.CovidController;
-import com.emre.covid.controller.GraphDataController;
-import com.emre.covid.model.Cities;
-import com.emre.covid.model.Covid;
-import com.emre.covid.model.GraphData;
-import com.emre.covid.repository.CitiesRepository;
-import com.emre.covid.repository.CovidRepository;
-import com.emre.covid.repository.GraphDataRepository;
-import com.emre.covid.service.CovidApplicationService;
+import com.tr.covid.controller.CovidController;
+import com.tr.covid.controller.GraphDataController;
+import com.tr.covid.model.Cities;
+import com.tr.covid.model.Covid;
+import com.tr.covid.model.GraphData;
+import com.tr.covid.repository.CitiesRepository;
+import com.tr.covid.repository.CovidRepository;
+import com.tr.covid.repository.GraphDataRepository;
+import com.tr.covid.service.CovidApplicationService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

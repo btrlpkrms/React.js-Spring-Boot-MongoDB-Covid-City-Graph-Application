@@ -1,4 +1,4 @@
-package com.emre.covid.model;
+package com.tr.covid.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

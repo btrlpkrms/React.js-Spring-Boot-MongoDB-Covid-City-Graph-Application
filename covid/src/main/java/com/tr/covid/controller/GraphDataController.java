@@ -1,7 +1,7 @@
-package com.emre.covid.controller;
+package com.tr.covid.controller;
 
-import com.emre.covid.repository.GraphDataRepository;
-import com.emre.covid.service.CovidApplicationService;
+import com.tr.covid.repository.GraphDataRepository;
+import com.tr.covid.service.CovidApplicationService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
